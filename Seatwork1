@@ -81,5 +81,7 @@
         </tr>      
         </table>
     </p>
-  </body style="background: #A0A0A0;">
+body {
+  background: #A0A0A0;
+}
 </html>
