@@ -28,7 +28,8 @@
         <br/>
         <input type="submit" value="Submit" />
         </form>
-    </p>
+
+</p>
 
     <!-- Table -->
     <p>
@@ -80,4 +81,6 @@
         </table>
     </p>
   </body style="background: #A0A0A0;">
+  </link rel="stylesheet" type="text/css" href="./style.css" />
+
 </html>
