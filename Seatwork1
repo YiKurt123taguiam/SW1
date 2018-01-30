@@ -1,7 +1,5 @@
 <html>
-  body {
-  background: #A0A0A0;
-}
+<body style="background: #B0C4DE;">
     <h1>Title</h1>
     <!-- First paragraph -->
     <p>
@@ -81,7 +79,5 @@
         </tr>      
         </table>
     </p>
-body {
-  background: #A0A0A0;
-}
+</body style="background: #B0C4DE;">
 </html>
