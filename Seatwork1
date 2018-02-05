@@ -1,6 +1,5 @@
 <html>
-<body>
-<div style="background-color:rgb(255,0,0)"></div>
+<body style="background: #B0C4DE;">
     <h1>Avenger</h1>
     <!-- First paragraph -->
     <p {
@@ -82,6 +81,5 @@
         </tr>      
         </table>
     </p>
-<div style="background-color:rgb(255,0,0)"></div>
-</body>
+</body style="background: #B0C4DE;">
 </html>
