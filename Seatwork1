@@ -1,5 +1,5 @@
 <html>
-<body style="background: #R0C4DE;">
+<body style="background:#R0C4DE;">
     <h1>Avenger</h1>
     <!-- First paragraph -->
     <p {
@@ -81,5 +81,5 @@
         </tr>      
         </table>
     </p>
-</body style="background: #R0C4DE;">
+</body style="background:#R0C4DE;">
 </html>
